@@ -2,6 +2,8 @@
 
 learn [Simple Email Service (Amazon SES)](https://aws.amazon.com/ses/)
 
+---
+
 ## Notes
 
 * send or receive emails
