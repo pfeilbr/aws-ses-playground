@@ -1,0 +1,14 @@
+EHLO allthecloudbits.com
+AUTH LOGIN
+Base64EncodedSMTPUserName
+Base64EncodedSMTPPassword
+MAIL FROM: brian.pfeil@allthecloudbits.com
+RCPT TO: brian.pfeil@gmail.com
+DATA
+From: Brian Pfeil <brian.pfeil@allthecloudbits.com>
+To: brian.pfeil@gmail.com
+Subject: Amazon SES SMTP Test
+
+This message was sent using the Amazon SES SMTP interface.
+.
+QUIT
