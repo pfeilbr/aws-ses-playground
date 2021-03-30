@@ -37,7 +37,7 @@ learn [Simple Email Service (Amazon SES)](https://aws.amazon.com/ses/)
     * send a maximum of 200 messages per 24-hour period
     * send a maximum of 1 message per second
 * need to [request production access](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/request-production-access.html?icmpid=docs_ses_console) to move out of sandbox
-* VPC endpoint support
+* VPC endpoint support - see [New – Amazon Simple Email Service (SES) for VPC Endpoints](https://aws.amazon.com/blogs/aws/new-amazon-simple-email-service-ses-for-vpc-endpoints/)
 
 ---
 
